@@ -1,21 +1,17 @@
 
 .landing-page {
     display: flex;
-    flex-direction: column;
     
 }
 
 .header {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+    background: peachpuff;
+    border: 6px brown;
+    height: 200 px;
 }
 
 .section-1 {
-    background-color: #1F2937;
-    display: flex;
-    flex-direction: column;
-    
+
 }
 
 .section-2 {
